@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_modules_posts_three_latests",
+  "info": {
+    "displayName": "PostsThreeLatest"
+  },
+  "options": {},
+  "attributes": {
+    "settings": {
+      "type": "enumeration",
+      "enum": [
+        "latest"
+      ],
+      "required": true,
+      "default": "latest"
+    }
+  }
+}

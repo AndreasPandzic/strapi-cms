@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_page_modules_posts_three_customs",
+  "info": {
+    "displayName": "PostsThreeCustom",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "posts": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::post.post"
+    }
+  }
+}

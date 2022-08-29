@@ -31,7 +31,8 @@
     "heroModule": {
       "type": "dynamiczone",
       "components": [
-        "hero-modules.landingpage-hero"
+        "hero-modules.landingpage-hero",
+        "hero-modules.hero-title-and-text"
       ],
       "required": true,
       "max": 1
